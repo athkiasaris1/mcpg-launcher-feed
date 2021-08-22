@@ -1,5 +1,5 @@
 # Name of your site (displayed in the header)
-name: Minecraft News
+name: MCPG Feed
 
 # Short bio or description (displayed in the header)
 description: Unofficial Minecraft update news. Serves as an updated version of the old MCUpdate blog.
@@ -20,7 +20,7 @@ url: https://mclaunch.github.io
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/mcupdate"
+baseurl: "/mcpg-launcher-feed"
 
 permalink: /post/:title/
 
